@@ -35,7 +35,7 @@
             android:layout_marginTop="16dp"
             android:layout_marginBottom="8dp"
             android:text="@string/dummy_value" />
-
+<!--description-->
         <TextView
             style="@style/TextContent.TitleMedium.Bold.MarginLeftRight"
             android:layout_marginBottom="16dp"
